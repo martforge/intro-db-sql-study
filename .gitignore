@@ -1,8 +1,3 @@
-# Ignore SQL dump files
-*.sql
-*.sql.gz
-*.dump
-
 # Ignore environment files
 *.env
 
