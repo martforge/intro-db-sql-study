@@ -22,7 +22,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ---
 
 ## Acknowledgments
-- Course: [Intro to Database and SQL](https://olympus.mygreatlearning.com/courses/84180)/)
+- Course: [Intro to Database and SQL](https://olympus.mygreatlearning.com/courses/84180)
 - Platform: GreatLearning
 
 ---
